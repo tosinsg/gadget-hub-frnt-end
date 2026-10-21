@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="TP-Link product illustration">
+<defs>
+<radialGradient id="bg" cx="50%" cy="42%" r="70%"><stop offset="0" stop-color="#2B6BFF" stop-opacity="0.28"/><stop offset="1" stop-color="#0B0F10"/></radialGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.22"/><stop offset="0.5" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="scr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2B6BFF"/><stop offset="1" stop-color="#101820"/></linearGradient>
+</defs>
+<rect width="400" height="400" fill="#12181A"/><rect width="400" height="400" fill="url(#bg)"/>
+<ellipse cx="200" cy="352" rx="110" ry="9" fill="#000" opacity="0.35"/>
+<rect x="170" y="296" width="60" height="22" rx="8" fill="#E8ECEE"/><rect x="190" y="268" width="20" height="34" fill="#D5DADD"/>
+<rect x="100" y="104" width="200" height="170" rx="34" fill="#F1F4F5"/><rect x="100" y="104" width="200" height="170" rx="34" fill="url(#sheen)"/>
+<circle cx="200" cy="190" r="62" fill="#14191B"/><circle cx="200" cy="190" r="46" fill="#0B1114"/><circle cx="200" cy="190" r="22" fill="#2B6BFF" opacity="0.7"/><circle cx="188" cy="178" r="7" fill="#fff" opacity="0.6"/>
+<circle cx="268" cy="132" r="5" fill="#3DDC97"/>
+<text x="200" y="384" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" letter-spacing="3" fill="#8B9494">TP-LINK</text>
+</svg>

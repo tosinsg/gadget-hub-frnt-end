@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Microsoft product illustration">
+<defs>
+<radialGradient id="bg" cx="50%" cy="42%" r="70%"><stop offset="0" stop-color="#3DDC97" stop-opacity="0.28"/><stop offset="1" stop-color="#0B0F10"/></radialGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.22"/><stop offset="0.5" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="scr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3DDC97"/><stop offset="1" stop-color="#101820"/></linearGradient>
+</defs>
+<rect width="400" height="400" fill="#12181A"/><rect width="400" height="400" fill="url(#bg)"/>
+<ellipse cx="200" cy="352" rx="110" ry="9" fill="#000" opacity="0.35"/>
+<path d="M110 150h180c40 0 60 36 66 80l8 58c3 24-24 38-42 20l-38-40h-148l-38 40c-18 18-45 4-42-20l8-58c6-44 26-80 66-80z" fill="#F3F5F6"/>
+<path d="M110 150h180c40 0 60 36 66 80l8 58c3 24-24 38-42 20l-38-40h-148l-38 40c-18 18-45 4-42-20l8-58c6-44 26-80 66-80z" fill="url(#sheen)"/>
+<circle cx="150" cy="196" r="20" fill="#14191B"/><circle cx="238" cy="236" r="20" fill="#14191B"/>
+<path d="M254 190h24M266 178v24" stroke="#2A3033" stroke-width="5" stroke-linecap="round" transform="translate(-8 0)"/>
+<circle cx="262" cy="190" r="8" fill="#3DDC97"/><circle cx="286" cy="176" r="8" fill="#F07178"/><circle cx="286" cy="204" r="8" fill="#7C9CFF"/><circle cx="310" cy="190" r="8" fill="#F5B14C"/>
+<path d="M176 232v28M162 246h28" stroke="#2A3033" stroke-width="6" stroke-linecap="round"/>
+<circle cx="200" cy="168" r="9" fill="#9AA0A3"/>
+<text x="200" y="384" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" letter-spacing="3" fill="#8B9494">MICROSOFT</text>
+</svg>

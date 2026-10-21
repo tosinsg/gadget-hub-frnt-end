@@ -1,0 +1,23 @@
+/* All @import statements must come first and be consecutive, so the font import sits above
+   the Tailwind import. Putting it after caused a PostCSS error and the dev server to fail. */
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+:root {
+  --bg: #0B0F10;
+  --panel: #12181A;
+  --border: #212A2C;
+  --accent: #3DDC97;
+  --accent-soft: #7C9CFF;
+  --text: #EDEFEF;
+  --muted: #8B9494;
+}
+
+body {
+  background-color: var(--bg);
+  font-family: 'Inter', sans-serif;
+}
+
+.font-display {
+  font-family: 'Space Grotesk', sans-serif;
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Sony product illustration">
+<defs>
+<radialGradient id="bg" cx="50%" cy="42%" r="70%"><stop offset="0" stop-color="#3DA9FC" stop-opacity="0.28"/><stop offset="1" stop-color="#0B0F10"/></radialGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.22"/><stop offset="0.5" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="scr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3DA9FC"/><stop offset="1" stop-color="#101820"/></linearGradient>
+</defs>
+<rect width="400" height="400" fill="#12181A"/><rect width="400" height="400" fill="url(#bg)"/>
+<ellipse cx="200" cy="352" rx="110" ry="9" fill="#000" opacity="0.35"/>
+<path d="M140 50c-26 0-42 20-42 46v206c0 24 16 44 42 44h20V50z" fill="#F3F5F6"/>
+<path d="M260 50c26 0 42 20 42 46v206c0 24-16 44-42 44h-20V50z" fill="#F3F5F6"/>
+<rect x="160" y="40" width="80" height="312" rx="14" fill="#14191B"/>
+<rect x="160" y="40" width="80" height="312" rx="14" fill="url(#sheen)"/>
+<rect x="196" y="70" width="8" height="150" rx="4" fill="#35C8FF" opacity="0.7"/>
+<rect x="148" y="326" width="104" height="14" rx="6" fill="#D6DADD"/>
+<text x="200" y="384" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" letter-spacing="3" fill="#8B9494">SONY</text>
+</svg>

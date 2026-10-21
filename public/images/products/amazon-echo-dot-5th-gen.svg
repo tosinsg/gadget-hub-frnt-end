@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Amazon product illustration">
+<defs>
+<radialGradient id="bg" cx="50%" cy="42%" r="70%"><stop offset="0" stop-color="#35C8FF" stop-opacity="0.28"/><stop offset="1" stop-color="#0B0F10"/></radialGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.22"/><stop offset="0.5" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="scr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#35C8FF"/><stop offset="1" stop-color="#101820"/></linearGradient>
+</defs>
+<rect width="400" height="400" fill="#12181A"/><rect width="400" height="400" fill="url(#bg)"/>
+<ellipse cx="200" cy="352" rx="110" ry="9" fill="#000" opacity="0.35"/>
+<circle cx="200" cy="200" r="104" fill="#2B3236"/><circle cx="200" cy="200" r="104" fill="url(#sheen)"/>
+<ellipse cx="200" cy="142" rx="64" ry="20" fill="#14191B"/>
+<path d="M104 232a104 104 0 0 0 192 0" fill="none" stroke="#35C8FF" stroke-width="7" stroke-linecap="round"/>
+<circle cx="152" cy="150" r="4" fill="#8B9494"/><circle cx="248" cy="150" r="4" fill="#8B9494"/><circle cx="200" cy="146" r="4" fill="#8B9494"/>
+<text x="200" y="384" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" letter-spacing="3" fill="#8B9494">AMAZON</text>
+</svg>
